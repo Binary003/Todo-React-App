@@ -1,19 +1,19 @@
-#Todo Application 📝
+<h1>Todo Application 📝</h1>
 A sleek and functional Todo application built with React, designed to help users manage tasks efficiently.
 
-#Key Features:
+<h1>Key Features:</h1>
 1.Add Tasks: Easily add new tasks to your list with a simple input form.
 2.Mark Complete: Check off tasks as you complete them for better tracking.
 3.Delete Tasks: Remove tasks effortlessly when they're no longer needed.
 4.Dynamic UI: Responsive and interactive interface powered by React's state management.
 5.Local Storage: Persist tasks between sessions using the browser's local storage.
 
-#Tech Stack:
+<h1>Tech Stack:</h1>
 1.Frontend: React (JSX, State & Props, React Hooks)
 2.Styling: CSS for a clean and minimalistic design
 3.Persistence: Browser Local Storage
 
-#Installation & Usage:
+<h1>Installation & Usage:</h1>
 1.Clone the repository:
 bash
 Copy code
